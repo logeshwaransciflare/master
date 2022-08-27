@@ -1,2 +1,0 @@
-(this["webpackJsonpsciflare-fantasy-react-admin"]=this["webpackJsonpsciflare-fantasy-react-admin"]||[]).push([[237],{1436:function(a,t,i){"use strict";i.r(t);i(1);var n=i(6);t.default=function(){return Object(n.jsx)("div",{children:"Quiz"})}}}]);
-//# sourceMappingURL=237.dbef7805.chunk.js.map

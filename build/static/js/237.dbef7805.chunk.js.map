@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/ManageCoins/quiz/index.js"],"names":["index"],"mappings":"uJAAA,uBAMeA,UAJD,WACZ,OAAO,sCACR,C","file":"static/js/237.dbef7805.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst index = () => {\r\n  return <div>Quiz</div>\r\n}\r\n\r\nexport default index\r\n"],"sourceRoot":""}
