@@ -1,0 +1,2 @@
+(this["webpackJsonpsciflare-fantasy-react-admin"]=this["webpackJsonpsciflare-fantasy-react-admin"]||[]).push([[231],{1487:function(t,a,e){"use strict";e.r(a);e(1);var n=e(6),s=function(){return Object(n.jsx)("div",{children:"Table"})};e(455),a.default=function(){return Object(n.jsx)("div",{className:"app-user-list",children:Object(n.jsx)(s,{})})}},455:function(t,a,e){}}]);
+//# sourceMappingURL=231.41d7581b.chunk.js.map
