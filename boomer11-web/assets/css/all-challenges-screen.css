@@ -1,0 +1,109 @@
+:host ::ng-deep .p-toast-message-custom {
+    background-color: #E1CFE7;
+    border: solid #8A427A;
+    border-width: 0 0 0 6px;
+    color: #2c1e30;
+    
+
+}
+:host ::ng-deep .p-toast-message-custom .p-toast-icon-close {
+color: #2c1e30;
+}
+.m-header {
+background: #C1395B;
+display: flex;
+justify-content: center;
+align-items: center;
+color: #fff;
+font-size: 0.8em;
+gap: 20px;
+width:40%;
+margin: 10px auto;
+padding: 5px 10px;
+border-radius: 15px;
+}
+.w-80{
+width:80%;
+margin:0 auto;
+}
+.carder-header h5{
+font-size: 1.3em;    font-weight: bold;
+}
+.contestDetails-item{
+background: #F8F8F8 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 9px #00000012;margin-bottom: 10px;
+border: 1px solid #70707015;
+border-radius: 5px;
+padding-bottom: 10px;
+}
+.badge-g{
+background: transparent linear-gradient(121deg, #E8B652 0%, #BF335C 100%) 0% 0% no-repeat padding-box;
+border-radius: 0px 0px 5px 5px;
+}
+.badge-m {
+background: transparent linear-gradient(122deg, #449CEA 0%, #2A4697 100%) 0% 0% no-repeat padding-box;
+border-radius: 0px 0px 5px 5px;
+}
+.badge-s {
+background: transparent linear-gradient(122deg, #63DDBD 0%, #05916C 100%) 0% 0% no-repeat padding-box;
+border-radius: 0px 0px 5px 5px;
+}
+.titler span{
+color: #fff;
+font-weight: bold;    font-size: 0.8em;
+padding: 5px 15px;
+margin: 0px 10px;
+}
+.copy-share-c,.share-c{
+color: #c7c7c7 !important;    padding: 0 !important;
+position: relative;
+top: 4px;
+cursor: pointer;
+}
+.titler{
+display: flex;
+justify-content: flex-end;
+align-items: center;
+}
+.coin-win{
+background: url("/assets/images/coin-win.png");
+width:20px;
+height: 20px;
+background-size: contain;
+}
+.winningAmnt{
+display: flex;
+align-items: center;
+font-size: 1.2em;
+font-weight: bold;
+gap: 5px;
+}
+.spotsLeft{
+color: #808080;
+font-size: 0.8em;
+}
+.progress{
+background-color: #DDDDDD;
+height: 0.3rem;
+}
+.progress-bar{
+background: transparent linear-gradient(90deg, #E8B652 0%, #BF335B 100%) 0% 0% no-repeat padding-box !important; 
+}
+.c-action {
+display: flex;
+justify-content: flex-end;
+}
+button.c-action-btn {
+display: flex;
+background: transparent linear-gradient(
+97deg
+, #A31193 0%, #23295A 100%) 0% 0% no-repeat padding-box;
+border: none;
+border-radius: 25px;
+padding: 5px 15px;
+color: #fff;
+justify-content: center;
+align-items: center;
+gap: 10px;
+width: 100px;
+}
