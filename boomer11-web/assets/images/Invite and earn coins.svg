@@ -111,7 +111,7 @@
       </g>
     </g>
     <g id="Group_59091" data-name="Group 59091" transform="translate(-6740 -12280)">
-      <text id="Welcome_back-2" data-name="Welcome back" transform="translate(6873 12467)" fill="#fff" font-size="10" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">Earn 500 coins for every friend you invite</tspan></text>
+      <text id="Welcome_back-2"  data-name="Welcome back" transform="translate(6873 12467)" fill="#fff" font-size="10" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">Earn <tspan x="0" y="0">    </tspan>coins for every friend you invite</tspan></text>
     </g>
   </g>
 </svg>
